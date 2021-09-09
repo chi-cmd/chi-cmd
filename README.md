@@ -1,9 +1,9 @@
 ### Hi there 👋
--I'm chiaki and 23years old.
--I'm working as an engineer.
--I joined a hackathon team in Japan and am studying java and python.
--I don't understand using github because I starting study github recently
--I'm going to learn how to use it a lot and improve my site on github and English
+- I'm chiaki and 23years old.
+- I'm working as an engineer.
+- I joined a hackathon team in Japan and am studying java and python.
+- I don't understand using github because I starting study github recently
+- I'm going to learn how to use it a lot and improve my site on github and English
 
 
 <!--
